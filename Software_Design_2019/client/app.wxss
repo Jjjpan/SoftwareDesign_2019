@@ -1,7 +1,10 @@
 /**app.wxss**/
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  box-sizing: border-box;
-} 
+page{
+  min-height: 100%;
+  background-color: #f6f7fe;
+}
+.loading{
+  display: block;
+  text-align: center;
+  padding-top:50%;
+}
